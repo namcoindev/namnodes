@@ -2,16 +2,16 @@
   "nodes": [
     {
       "name": "Gemsbok",
-      "url": "mine.namcoin.org",
+      "url": "gemsbok.namcoin.org",
       "port": 11778,
-      "ssl": false,
+      "ssl": true,
       "cache": false
     },
     {
-      "name": "Oshakati",
-      "url": "138.68.31.205",
+      "name": "Eland",
+      "url": "eland.namcoin.org",
       "port": 11778,
-      "ssl": false,
+      "ssl": true,
       "cache": false
     }
   ]
