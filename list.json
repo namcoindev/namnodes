@@ -3,16 +3,16 @@
     {
       "name": "Gemsbok",
       "url": "gemsbok.namcoin.org",
-      "port": 11778,
+      "port": 443,
       "ssl": true,
-      "cache": false
+      "cache": true
     },
     {
       "name": "Eland",
       "url": "eland.namcoin.org",
-      "port": 11778,
+      "port": 443,
       "ssl": true,
-      "cache": false
+      "cache": true
     }
   ]
 }
